@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "resume-app",
-  description: "Portfolio of Phạm Minh Quân, a passionate front-end developer.",
+  title: "enteecaay",
+  description: "Nguyen Tuan Kiet's Resume Portfolio.",
 };
 
 export default function RootLayout({
