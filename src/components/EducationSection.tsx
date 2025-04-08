@@ -4,7 +4,7 @@ const EducationSection = () => {
       <h2 className="text-3xl font-semibold text-blue-700 mb-6">Education</h2>
       <div className="w-full inline-flex items-center mb-4">
         <h3 className="font-bold text-xl">
-          FPT University  <span className="mx-4">//</span> 2022 - 2026
+          FPT University <span className="mx-4">{"//"}</span> 2022 - 2026
         </h3>
       </div>
       <div>
